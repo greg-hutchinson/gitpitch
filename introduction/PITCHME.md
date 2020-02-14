@@ -29,4 +29,3 @@
 - Only 9 cells to work with
 - Not WYSIWYG
 - Complex slide transitions not supported
----

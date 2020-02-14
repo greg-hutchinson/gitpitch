@@ -8,7 +8,7 @@ theme-links      : [ "#E27924", "#FF851B" ]
 theme-code       : [ "Fira Code", "100", "120" ]
 theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
-logo             : assets/img/grim-reaper.jpg
+logo             : assets/img/fcc.png
 logo-position    : top-left
 layout           : top
 # PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-END
